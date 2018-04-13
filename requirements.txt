@@ -1,2 +1,4 @@
 Flask==0.12.2
+Flask-SQLAlchemy==2.3.1
 web3==4.0.0
+ipykernel
