@@ -88,4 +88,4 @@ def list_wallet():
 # manage.py
 if __name__ == '__main__':
     db.create_all()
-    app.run()
+    app.run(port=8080)
