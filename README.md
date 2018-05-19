@@ -39,8 +39,11 @@ jupyter-notebook
 #### Start Flask Backend Server
 
 ```sh
- python web3py.py
- # python3 web3py.py
+python web3py.py
+# python3 web3py.py
+ 
+python crowdsale_backend.py
+# python3 crowdsale_backend.py
 ```
 
 
